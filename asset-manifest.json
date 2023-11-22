@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portafolioKevinDiazz/static/css/main.77fdcd37.css",
+    "main.js": "/portafolioKevinDiazz/static/js/main.ef5c1030.js",
+    "static/media/web1 (3).png": "/portafolioKevinDiazz/static/media/web1 (3).0b16b22e397b38fd9c89.png",
+    "static/media/Captura de pantalla 2023-11-15 210946.png": "/portafolioKevinDiazz/static/media/Captura de pantalla 2023-11-15 210946.4401e9b3a8c5c271a3ca.png",
+    "static/media/web1 (4).png": "/portafolioKevinDiazz/static/media/web1 (4).e7c200258ef7b9936803.png",
+    "static/media/Captura de pantalla 2023-11-15 210931.png": "/portafolioKevinDiazz/static/media/Captura de pantalla 2023-11-15 210931.ba8891e24cc6668d8434.png",
+    "static/media/Captura de pantalla 2023-11-15 210916.png": "/portafolioKevinDiazz/static/media/Captura de pantalla 2023-11-15 210916.b9a9da15372ae920354c.png",
+    "static/media/Captura de pantalla 2023-11-16 194602.png": "/portafolioKevinDiazz/static/media/Captura de pantalla 2023-11-16 194602.d36f3d8342b183f3423d.png",
+    "static/media/Imagen de WhatsApp 2023-11-21 a las 01.10.00_dc9f9b25.jpg": "/portafolioKevinDiazz/static/media/Imagen de WhatsApp 2023-11-21 a las 01.10.00_dc9f9b25.d4121c85024aa34c8eee.jpg",
+    "static/media/Captura de pantalla_20230228_233703.png": "/portafolioKevinDiazz/static/media/Captura de pantalla_20230228_233703.515f5c868f9bdf3e8837.png",
+    "static/media/web1 (1).png": "/portafolioKevinDiazz/static/media/web1 (1).b1c06b1a637b0d8c13d0.png",
+    "static/media/pngegg (3).png": "/portafolioKevinDiazz/static/media/pngegg (3).a2591e27bc692562995c.png",
+    "static/media/pngegg (7).png": "/portafolioKevinDiazz/static/media/pngegg (7).668fe687f5d2082add1c.png",
+    "static/media/pngegg.png": "/portafolioKevinDiazz/static/media/pngegg.20adfb35ae6a6e5817bf.png",
+    "static/media/pngegg (8).png": "/portafolioKevinDiazz/static/media/pngegg (8).04df5c202530970760b9.png",
+    "static/media/pngegg (1).png": "/portafolioKevinDiazz/static/media/pngegg (1).dafbcd7fb56fcfce553c.png",
+    "index.html": "/portafolioKevinDiazz/index.html",
+    "main.77fdcd37.css.map": "/portafolioKevinDiazz/static/css/main.77fdcd37.css.map",
+    "main.ef5c1030.js.map": "/portafolioKevinDiazz/static/js/main.ef5c1030.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fdcd37.css",
+    "static/js/main.ef5c1030.js"
+  ]
+}
