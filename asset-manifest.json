@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolioKevinDiazz/static/css/main.77fdcd37.css",
-    "main.js": "/portafolioKevinDiazz/static/js/main.ef5c1030.js",
+    "main.js": "/portafolioKevinDiazz/static/js/main.10043871.js",
     "static/media/web1 (3).png": "/portafolioKevinDiazz/static/media/web1 (3).0b16b22e397b38fd9c89.png",
     "static/media/Captura de pantalla 2023-11-15 210946.png": "/portafolioKevinDiazz/static/media/Captura de pantalla 2023-11-15 210946.4401e9b3a8c5c271a3ca.png",
     "static/media/web1 (4).png": "/portafolioKevinDiazz/static/media/web1 (4).e7c200258ef7b9936803.png",
@@ -18,10 +18,10 @@
     "static/media/pngegg (1).png": "/portafolioKevinDiazz/static/media/pngegg (1).dafbcd7fb56fcfce553c.png",
     "index.html": "/portafolioKevinDiazz/index.html",
     "main.77fdcd37.css.map": "/portafolioKevinDiazz/static/css/main.77fdcd37.css.map",
-    "main.ef5c1030.js.map": "/portafolioKevinDiazz/static/js/main.ef5c1030.js.map"
+    "main.10043871.js.map": "/portafolioKevinDiazz/static/js/main.10043871.js.map"
   },
   "entrypoints": [
     "static/css/main.77fdcd37.css",
-    "static/js/main.ef5c1030.js"
+    "static/js/main.10043871.js"
   ]
 }
