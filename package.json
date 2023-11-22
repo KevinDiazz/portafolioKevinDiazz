@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "preinstall": "npx npm-force-resolutions",
     "predeploy": "npm run build",
-    "deploy": "gh-page -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
