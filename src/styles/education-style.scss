@@ -1,0 +1,51 @@
+.aprendizaje {
+  font-size: 10pt;
+  border-radius: 20px;
+  padding: 20px;
+  background: rgb(247, 247, 247);
+  border: 1px solid black;
+}
+.titulo {
+  font-family: "Exo 2", sans-serif;
+  color: #00509b;
+}
+.aptitudes-info {
+  list-style: none;
+  font-family: "Glegoo", serif;
+  font-size: 13pt;
+  li {
+    margin-top: 10px;
+    cursor: pointer;
+  }
+}
+.span-animation {
+  transition: font-weight 0 ease-in;
+  &:hover {
+    font-weight: bold;
+    color: #e18335;
+  }
+}
+
+.row2 {
+  height: 100px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.texto-info {
+  font-family: "Glegoo", serif;
+  font-size: medium;
+}
+
+.list-curses {
+  list-style: none;
+  button {
+    margin-bottom: 30px;
+  }
+}

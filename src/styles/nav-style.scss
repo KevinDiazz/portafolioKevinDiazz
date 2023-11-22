@@ -1,0 +1,17 @@
+nav {
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  font-size: 14pt;
+  font-family:"Glegoo", serif;
+  font-weight: bold;
+  .nav-link {
+    color: rgb(20, 20, 20);
+    cursor: pointer;
+    &:hover{
+      color: #0072bb;
+    }
+  }
+  .nav-item{
+    margin: 0 10px 0 10px;
+  }
+}

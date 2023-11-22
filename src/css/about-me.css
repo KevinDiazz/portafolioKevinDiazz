@@ -1,0 +1,24 @@
+.title {
+  font-family: "Literata", serif;
+  color: #0072bb;
+  font-size: 40pt;
+}
+
+.aboutMe-info {
+  font-family: "Glegoo", serif;
+  word-spacing: 2px;
+  color: black;
+}
+
+.img-profile {
+  width: 250px;
+  border-radius: 20px;
+}
+
+.titulo-2 {
+  background-color: white;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border: 1px solid;
+  border-bottom: none;
+}/*# sourceMappingURL=about-me.css.map */

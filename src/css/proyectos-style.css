@@ -1,0 +1,103 @@
+.container-proyectos {
+  font-family: "Glegoo", serif;
+  border-radius: 20px;
+  border: 1px solid white;
+  border-top: none;
+}
+.container-proyectos .card-title {
+  font-family: "Literata", serif;
+  font-weight: bold;
+}
+.container-proyectos a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.container-proyectos h3 {
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: -15px;
+  padding: 36px;
+  background-color: rgb(1, 1, 77);
+  color: white;
+}
+
+.card {
+  box-shadow: 1px 2px 13px 3px rgba(0, 0, 0, 0.86);
+  transition: transform 0.3s ease-out;
+  cursor: pointer;
+}
+.card:hover {
+  transform: scale(1.1);
+}
+
+.github-link:hover {
+  font-weight: bold;
+}
+
+.item2 {
+  transition: height 0.6s ease-in;
+}
+
+.animate {
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+.animate2 {
+  animation: fadeIn 1.5s ease-in-out;
+  animation-delay: 0.1s;
+}
+
+.animate3 {
+  animation: fadeIn 1.5s ease-in-out;
+  animation-delay: 0.2s;
+}
+
+.animate4 {
+  animation: fadeIn 1.5s ease-in-out;
+  animation-delay: 0.3s;
+}
+
+.logoGit {
+  width: 50px;
+}
+
+.accordion-button:focus {
+  background-color: rgb(21, 74, 109) !important;
+  border: none !important;
+  box-shadow: none;
+}
+.accordion-button:enabled {
+  background-color: rgb(21, 74, 109);
+  box-shadow: none;
+  border: none !important;
+  color: rgb(255, 255, 255);
+}
+.accordion-button:hover {
+  background-color: rgb(57, 113, 150);
+}
+.accordion-button::after {
+  color: rgb(255, 49, 49);
+  background-color: white;
+  border-radius: 5px;
+}
+.accordion-button::before {
+  color: rgb(255, 0, 0);
+}
+
+.certificado-img {
+  width: auto;
+}
+
+.btn-primary {
+  background-color: rgb(124, 124, 124);
+}
+.btn-primary:hover {
+  background-color: rgb(204, 204, 204);
+  color: #0072bb;
+  font-weight: bold;
+}
+
+.accordion-header {
+  border: 2px solid white;
+  border-radius: 10px;
+}/*# sourceMappingURL=proyectos-style.css.map */
