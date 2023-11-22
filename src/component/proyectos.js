@@ -7,7 +7,7 @@ function Proyectos() {
           <strong>Proyectos</strong>
         </h3>
         <div className="col-12 d-flex justify-content-center">
-          <div className="row row-cols-1 row-cols-xl-2 row-cols-md-1 row-cols-sm-1 g-5 col-9">
+          <div className="row row-cols-1 row-cols-xl-2 row-cols-md-1 row-cols-sm-1 g-5 col-12 col-md-9">
             <div className="col">
               <a
                 href="https://github.com/KevinDiazz/RegistradorDeDatos"
@@ -50,7 +50,7 @@ function Proyectos() {
                     className="card-img-top h-75"
                     alt="..."
                   />
-                  <div className="card-body">
+                  <div className="card-body col-12">
                     <h5 className="card-title">Web Restaurante</h5>
                     <p className="card-text">
                       Página web de un restaurante con sistema de reservas, la
@@ -153,10 +153,10 @@ function Proyectos() {
         </p>
         <div className="col-12">
           <div
-            className="accordion certificados w-100 d-flex justify-content-center mt-5"
+            className="accordion certificados d-md-flex justify-content-center  mt-5"
             id="accordionPanelsStayOpenExample"
           >
-            <div className="acordeon-item accordion-item w-50">
+            <div className="acordeon-item accordion-item  col-sm-12 col-xl-6">
               <h2 className="accordion-header">
                 <button
                   className="accordion-button"
