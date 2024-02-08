@@ -36,7 +36,7 @@ function Nav() {
             <li className="nav-item nav-link">
               <a
                 className="nav-link"
-                href="https://drive.google.com/uc?export=download&id=15TB0ee2Z0cGqfXxmHkUqZq96fsyAy6lq"
+                href="https://drive.google.com/file/d/1KIDKr9G8F3vPtzcC8WLK6ykLbkms0FUS/view?usp=drive_link"
               >
                 Descargar Cv
               </a>
